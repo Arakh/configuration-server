@@ -9,7 +9,7 @@ spring:
           uri: https://github.com/arakh/blog-config/
           searchPaths: gateway, blog, finance, authentication, approval, reporting
           username: arakh
-          password: R4h4s144j4
+          password:
 
 jasypt:
   encryptor:
